@@ -1,4 +1,4 @@
-# Airbus-DemoHub
+#Exploring emerging user interface design techniques and technologies within a demonstration space setting. 
 
 ###Current Proof of concepts included in this repo:
 
