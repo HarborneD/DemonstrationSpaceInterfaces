@@ -1,6 +1,7 @@
 # AirBus-DemoHub
 
-Current Proof of concepts included:
+#Current Proof of concepts included:
+
 Leap motion control of VR Screens.
 - Using left hand gestures to signify screen number and right hand gestures for actions
 - pointing to signify screen number and right hand gestures for actions
