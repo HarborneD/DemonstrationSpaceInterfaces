@@ -1,6 +1,6 @@
-#Exploring emerging user interface design techniques and technologies within a demonstration space setting. 
+#Exploring emerging user interface technologies within a demonstration space setting. 
 
-###Current Proof of concepts included in this repo:
+###Current proof of concepts included in this repo:
 
 
 Leap motion control of VR Screens - Unity + Leap Motion + HTC Vive (click for videos):
