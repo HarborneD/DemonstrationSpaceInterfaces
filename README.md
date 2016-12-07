@@ -1,15 +1,17 @@
 # AirBus-DemoHub
 
-#Current Proof of concepts included:
+###Current Proof of concepts included in this repo:
 
-Leap motion control of VR Screens (click for video).
+
+Leap motion control of VR Screens - Unity + Leap Motion + HTC Vive (click for videos):
 - [Using left hand gestures to signify screen number and right hand gestures for actions](https://vimeo.com/harborned/leapmotionconcept-lefthandcountpinch)
 
 - [pointing to signify screen number and right hand gestures for actions](https://vimeo.com/harborned/leapmotionconcept-pointpinch)
 
 - [using an "on arm" menu to select screen number and take actions](https://vimeo.com/harborned/leapmotionconcept-menu)
 
-Possible directions to explore:<br />
+
+###Possible directions to explore:<br />
 VR<br />
 - 3D models of projects that can be picked up, decomposed (i.e. a plane with roof that can be pulled off to look inside)<br />
 - Virtual TVs controlled using Leap Motion, Kinect, Vive Controllers<br />
