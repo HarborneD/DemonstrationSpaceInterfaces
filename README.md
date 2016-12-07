@@ -6,7 +6,7 @@ Leap motion control of VR Screens.
 - Using left hand gestures to signify screen number and right hand gestures for actions
 - pointing to signify screen number and right hand gestures for actions
 <iframe src="https://player.vimeo.com/video/194683650" width="640" height="524" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/194683650">Leap Motion - Video Control Proof of Concept - Point + Pinch</a> from <a href="https://vimeo.com/harborned">Dan Harborne</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/194683650">Leap Motion - Video Control Proof of Concept - Point + Pinch
 - using an "on arm" menu to select screen number and take actions
 
 Possible Solutions:<br />
